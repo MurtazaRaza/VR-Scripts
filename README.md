@@ -1,2 +1,2 @@
 # VR-Scripts
-Different script used in Google VR Applications
+Different scripts used in Google VR Applications
